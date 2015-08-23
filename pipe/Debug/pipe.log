@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/8/11 15:01:03。
+     1>项目“d:\Users\LWF15\documents\visual studio 2010\Projects\Study\pipe\pipe.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\pipe.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cross.cpp
+         cross.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\users\lwf15\documents\visual studio 2010\Projects\Study\Debug\pipe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\pipe.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\users\lwf15\documents\visual studio 2010\Projects\Study\Debug\pipe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\users\lwf15\documents\visual studio 2010\Projects\Study\Debug\pipe.lib" /MACHINE:X86 Debug\pipe.exe.embed.manifest.res
+         Debug\cross.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\pipe.exe.embed.manifest" /manifest Debug\pipe.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         pipe.vcxproj -> d:\users\lwf15\documents\visual studio 2010\Projects\Study\Debug\pipe.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\pipe.unsuccessfulbuild”。
+         正在对“Debug\pipe.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\Users\LWF15\documents\visual studio 2010\Projects\Study\pipe\pipe.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.31
